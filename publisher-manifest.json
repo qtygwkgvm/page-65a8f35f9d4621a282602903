@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "caa81301e4515d350a7584d1",
+  "owner": "qtygwkgvm",
+  "repo": "page-65a8f35f9d4621a282602903",
+  "title": "小火箭机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "65a8f35f9d4621a282602903",
+      "a": "IPLCCloud",
+      "b": "小火箭机场推荐",
+      "entity": "IPLCCloud",
+      "brand": "小火箭机场推荐",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c67427b902b545d03fa6f4a8edf3a8a95adf5fc67618789e16da4aae1cfdb730",
+      "content": {
+        "primary_entity": "IPLCCloud",
+        "keyword1": "IPLCCloud",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，将订阅信息导入后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅，开始使用 IPLCCloud。",
+          "AI_CLOSING_TITLE": "开始使用 IPLCCloud",
+          "AI_DESCRIPTION": "，IPLCCloud 提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量，设备数从 3 台到 20 台逐级提升。旗舰版配备 IPLC 专线游戏加速，团队版支持企业定制路由。按年付更划算，旗舰版年付 ¥350，适合对节点品质与流媒体解锁有要求的用户。",
+          "AI_FEATURES_INTRO": "从使用场景出发，了解 IPLCCloud 的套餐与设备匹配方式。",
+          "AI_FEATURES_TITLE": "IPLCCloud 使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月适合 3 台设备轻度使用，旗舰版 ¥35/月支持 5 台设备与全节点流媒体解锁，团队版 ¥85/月可 20 台设备共享并支持定制路由。",
+          "AI_FEATURE_TEXT_2": "将同一订阅按客户端文档导入手机、平板或电脑，设备在线数按所选套餐的上限执行，年付方案折算后月均成本更低。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版包含高带宽节点，团队版提供 VIP 专属节点与专属客户经理，适合多人协作或对连接品质要求较高的环境。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "设备与订阅配置",
+          "AI_FEATURE_TITLE_3": "节点品质差异",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "IPLCCloud 面向需要海外加速的用户，提供三档套餐与多平台客户端支持，按设备数量和流量需求选择订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备需求选择",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线节点",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350 与 ¥850，按设备数与流量需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版与团队版之间选择适合的套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备在线数、流量额度与节点范围，核对是否满足日常使用场景。",
+          "AI_STEP_TEXT_3": "参考对应客户端文档导入订阅信息，完成配置后开始在所选设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "IPLCCloud 多设备加速方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "IPLCCloud 支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "常见客户端如 Clash、Shadowrocket、v2rayN、Surge 等均可按文档导入订阅，具体以所用设备系统为准，建议先确认客户端是否支持订阅链接。",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带有 IPLC 专线游戏加速优化与 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_3": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_3": "团队版每月 1000GB、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人协作或小型团队共用。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付可减少两个月的费用支出，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何配置订阅？",
+          "AI_FAQ_ANSWER_5": "选定套餐并确认设备适配后，打开对应客户端，按文档导入订阅地址，保存并选择节点即可连接。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "25a97d7225795b3afe48e62870d834b5a990afb649b7a9a0a67e9e851f02f3df",
+    "sitemap.xml": "7e8f8c7b6a14a139d14a540bf542fefb3b8e4a217b184be756c328c2bf08c925",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "68a4cae9742e697d895092f9f565b4e4f0f6477cbe0a563a053be57525e1b10c"
+}
